@@ -1,3 +1,3 @@
-# Github Actions  homework 222003
+# GitHub Actions homework 22200
 
-Homework and test of github Actions.
+Testing something
