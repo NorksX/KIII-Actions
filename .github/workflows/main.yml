@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: stefan5andonov/kiii-nginx-webpage:github-latest
+          tags: borismanev/kiii-nginx-webpage:github-latest
